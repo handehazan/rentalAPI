@@ -1,0 +1,6 @@
+@bnbAPI_HostAddress = http://localhost:5170
+
+GET {{bnbAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

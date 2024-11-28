@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q9SH06kpX9vSetDQ37XalwZwshGI4OBLJo6KeMgi8L4=",
+  "Source": "bnbAPI",
+  "BasePath": "_content/bnbAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

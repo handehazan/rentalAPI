@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="bnbAPI.Context.ApplicationDbContext">
+      <Value>Data Source=bnbapidbserver.database.windows.net,1433%3bInitial Catalog=bnbAPI_db%3bAuthentication=ActiveDirectoryManagedIdentity</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\controllers\\staycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\controllers\\staycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\source\\svc\\stayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\source\\svc\\stayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\source\\db\\stayaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\source\\db\\stayaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|c:\\users\\focus\\documents\\se4458\\midterm\\bnbapi\\bnbapi\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECA49CA-741F-44EA-800C-218475EA8176}|bnbAPI\\bnbAPI.csproj|solutionrelative:bnbapi\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "bnbAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\appsettings.json",
+              "RelativeToolTip": "bnbAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T14:08:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Program.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Program.cs",
+              "RelativeToolTip": "bnbAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:12:26.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StayAccess.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Source\\Db\\StayAccess.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Source\\Db\\StayAccess.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Source\\Db\\StayAccess.cs",
+              "RelativeToolTip": "bnbAPI\\Source\\Db\\StayAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:42:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StayService.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Source\\Svc\\StayService.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Source\\Svc\\StayService.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Source\\Svc\\StayService.cs",
+              "RelativeToolTip": "bnbAPI\\Source\\Svc\\StayService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:47:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "bnbAPI\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:33:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StayController.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\StayController.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Controllers\\StayController.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\StayController.cs",
+              "RelativeToolTip": "bnbAPI\\Controllers\\StayController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:11:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListingController.cs",
+              "DocumentMoniker": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\ListingController.cs",
+              "RelativeDocumentMoniker": "bnbAPI\\Controllers\\ListingController.cs",
+              "ToolTip": "C:\\Users\\focus\\Documents\\se4458\\midterm\\bnbAPI\\bnbAPI\\Controllers\\ListingController.cs",
+              "RelativeToolTip": "bnbAPI\\Controllers\\ListingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T21:04:59.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
