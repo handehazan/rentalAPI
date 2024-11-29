@@ -14,7 +14,7 @@ The application follows a clean architecture approach, separating concerns into 
     Services: Implement business logic and interact with the data access layer. (ListingService, StayService, ReviewService, UserService)
     Data Access: Encapsulates database operations.(ListingAccess, StayAccess, ReviewAccess, UserAccess),(ApplicationDbContext)
 
-    Representative class diagram:
+Representative class diagram:
         ![resim](https://github.com/user-attachments/assets/c48f3a2d-4455-4b99-9ecf-59d1be5d7496)
 The API uses JWT for authentication and authorization. JWT ensures that only authenticated users with valid tokens can access protected resources, with role-based permissions implemented for access control.
 Users table for testing:(since there is no registration end point, use only these users when testing also need to look for the roles since it uses roles for authorization)
