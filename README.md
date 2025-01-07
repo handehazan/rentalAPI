@@ -4,7 +4,8 @@ Project Overview
 The Short-Term Stay API is a cloud-hosted web api, designed for a short-term stay company. It provides functionalities for hosts, guests, and admins, enabling them to manage listings, book stays, and oversee platform activities.
 This project is built using .NET 8 Web API with Azure for cloud hosting and database management.
 
-Find the source code of the project on GitHub: https://github.com/handehazan/rentalAPI
+Find the source code of the project on GitHub: https://github.com/handehazan/rentalAPI.
+
 Find the swagger for the API: [rentalhouseapi-ezf3aza8g4eja7ay.canadacentral-01.azurewebsites.net 
 ](https://rentalhouseapi-ezf3aza8g4eja7ay.canadacentral-01.azurewebsites.net/index.html)
 
@@ -27,7 +28,5 @@ Issues Encountered
     
 ER Diagram:
 ![Ekran görüntüsü 2024-11-29 214406](https://github.com/user-attachments/assets/8a066963-1451-4f16-bba7-b087ab8e6b70)
-
-The short presentation video for this project: https://youtu.be/TzPepbka-I0
 
 
